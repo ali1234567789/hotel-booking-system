@@ -16,3 +16,7 @@ Hotel Booking System
 Git
 GitHub
 Markdown
+
+Болашақ мүмкіндіктер
+Брондауды өзгерту
+Брондауды болдырмау
